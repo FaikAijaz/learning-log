@@ -1,0 +1,1 @@
+Branches are sticky notes on commits
